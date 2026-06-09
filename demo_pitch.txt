@@ -1,0 +1,19 @@
+60-second demo pitch
+
+This is LoyaltyAI, a real-time complaint rescue assistant for Vodafone agents.
+
+The problem we are solving is the moment when a customer is frustrated, has repeated their issue multiple times, and is considering leaving.
+
+In the demo, the agent receives a live customer complaint transcript. LoyaltyAI analyses the text, detects emotion, identifies the complaint type, looks at customer context such as tenure and previous contacts, and estimates churn risk.
+
+Here, Sarah has contacted Vodafone twice about an unexpected roaming charge. The system marks her churn risk as high and generates a rescue card.
+
+The rescue card gives the agent four things: what happened, why the customer is upset, what to say, and what action to take.
+
+Instead of asking Sarah to explain again, the agent can immediately say: “I can see you have contacted us twice about this already. I’m sorry this has taken too long. I have the full context now, and I’m going to resolve it on this call.”
+
+Then the agent applies the recommended resolution and sends a personalised follow-up message.
+
+This turns a complaint call into a loyalty moment.
+
+The real product would connect to Vodafone CRM, billing, call transcripts, NPS, and churn models. But the principle is the same: detect the risk, guide the agent, resolve faster, and keep the customer.
